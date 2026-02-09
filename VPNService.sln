@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Project GlobalProperties="Configuration=Debug;Platform=AnyCPU">
+    <ProjectConfiguration Configuration="Debug|AnyCPU" />
+    <ProjectConfiguration Configuration="Release|AnyCPU" />
+  </Project>
+</Solution>
